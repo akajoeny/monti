@@ -32,22 +32,21 @@ Scripts for [operations against the API](https://github.com/Exabel/python-sdk/tr
 ## Exabel API documentation
 
 ### Data API
-
 The Exabel Data API can be used to upload custom data to the Exabel platform. Custom data may include entities, relationships and time series.
 
 Developer guide: https://help.exabel.com/docs/data-api
 
 ### Export API
-
 The Exabel Export API can be used to export dashboards and signals
+
 Developer guide: https://doc.exabel.com/api/export/index.html
 
 ### Analytics API
-
 The Exabel Analytics API can be used to manage derived signals and prediction models on the Exabel Platform.
+
 Develper guide: https://help.exabel.com/docs/analytics-api
 
 ### Management API
-
 The Exabel Management API can be used to manage the library on the Exabel Platform.
+
 Developer guide: https://help.exabel.com/docs/management-api
