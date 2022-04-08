@@ -37,7 +37,7 @@ The Exabel Data API can be used to upload custom data to the Exabel platform. Cu
 Developer guide: https://help.exabel.com/docs/data-api
 
 ### Export API
-The Exabel Export API can be used to export dashboards and signals
+The Exabel Export API can be used to export dashboards and signals from the Exabel Platform
 
 Developer guide: https://doc.exabel.com/api/export/index.html
 
